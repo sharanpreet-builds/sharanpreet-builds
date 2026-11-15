@@ -1,16 +1,35 @@
-## Hi there 👋
+# Sharanpreet Kaur
 
-<!--
-**sharanpreet-builds/sharanpreet-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student | AI & Machine Learning
 
-Here are some ideas to get you started:
+I’m a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently strengthening my programming and data analysis foundations through practical projects and continuous learning.
+
+## Technical Skills
+
+* Programming: Python
+* Data Analysis: Pandas, NumPy
+* Data Handling: CSV and Excel processing
+* Currently Exploring: Machine Learning, Git and GitHub
+
+## Areas of Interest
+
+* Artificial Intelligence and Machine Learning
+* Deep Learning
+* Open-Source Software
+* Data Science
+
+## Current Focus
+
+* Developing practical Python projects
+* Improving problem-solving and programming skills
+* Exploring open-source communities
+
+## Projects
+
+Projects and learning milestones will be added here as I build and publish them.
+
+
+
+## GitHub: @sharanpreet-builds
